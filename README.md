@@ -68,6 +68,8 @@ The access specifier used during inheritance determines the accessibility of bas
 
 single inheritance
 ~~~
+// ashu yadav
+//23070123154
 #include <iostream>
 #include <string>
 using namespace std;
@@ -96,6 +98,7 @@ int main()
     cout<<u1.uni+" "+u1.dept;
 }
 ~~~
+Output:-
 ```
 /tmp/LbQueTWHLb.o
 engineering 
@@ -106,6 +109,8 @@ symbiosis:  electronics and telecommunication
 
 multiple inheritance
 ~~~
+// ashu yadav
+//23070123154
 #include <iostream>
 #include <string>
 using namespace std;
@@ -147,6 +152,7 @@ int main()
     cout<<"("<<f2.seater<<")"<<endl<<"MILEAGE: "<<f2.mileage<<endl;
 }
 ~~~
+Output:-
 ```
 /tmp/DGZYnVTYlm.o
 black
@@ -158,6 +164,8 @@ MILEAGE: 6 kmpl
 
 multilevel inheritance 
 ~~~
+// ashu yadav
+//23070123154
 #include <iostream>
 #include <string>
 using namespace std;
@@ -195,6 +203,7 @@ int main() {
     return 0;
 }
 ~~~
+Output:-
 ```
 /tmp/2FEWBsZPhg.o
 This vehicle runs on petrol.
@@ -204,7 +213,8 @@ speed: 200 kmph.
 
 inheritance
 ~~~
-
+// ashu yadav
+//23070123154
 #include <iostream>
 #include <string>
 using namespace std;
@@ -245,6 +255,7 @@ int main()
     return 0;
 }
 ~~~
+Output:-
 ```
 /tmp/fTXN1sMpuE.o
 This vehicle runs on petrol.
@@ -252,3 +263,5 @@ This car has 5 doors.
 This vehicle runs on petrol.
 it has 2 tyres.
 ```
+## Conclusion:-
+We learnt about inheritence and it's types.
